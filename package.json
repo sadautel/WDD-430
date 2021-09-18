@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sadautel/WDD-430/issues"
   },
-  "homepage": "https://github.com/sadautel/WDD-430#readme"
+  "homepage": "https://github.com/sadautel/WDD-430#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
 }
